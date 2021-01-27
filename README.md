@@ -6,8 +6,8 @@ Aplicação para pesquisa de previsão de tempo em cidades, com persistencia de 
 # Como usar
 - npm install no diretório de server e apiweather
 - inicializar o mongo db (database: "dbweather", collection: "card")
-- executar no diretório server "node app"
-- executar no diretório apiweather "ng serve"
+- executar no diretório server "node app", 127.0.0.1:3000
+- executar no diretório apiweather "ng serve", 127.0.0.1:4200
 
 # Para caso a listagem não estiver aparecendo
 - Verificar erro de verbo http no console: (Access to XMLHttpRequest)
