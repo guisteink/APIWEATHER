@@ -1,5 +1,5 @@
 # APIWEATHER
-Aplicação para pesquisa de previsão de tempo em cidades, com persistencia de dados
+Aplicação para pesquisa de previsão de tempo em cidades, com persistencia de dados e consumo da API da HG Brasil https://hgbrasil.com/
 # Como usar
 - npm install no diretório de server e apiweather
 - inicializar o mongo db (database: "dbweather", collection: "card")
