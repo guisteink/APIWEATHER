@@ -14,6 +14,6 @@ Aplicação para pesquisa de previsão de tempo em cidades, com persistencia de 
 	- Instalar a extensao no navegador "Acess-Control-Allow-Origin" e seguir os passos do video
 	
 # Tecnologias
-- Angular 11
+- Angular 
 - NodeJS
 - MongoDB
