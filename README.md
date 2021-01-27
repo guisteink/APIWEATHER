@@ -1,5 +1,5 @@
 # APIWEATHER
-Aplicação para pesquisa de tempo de cidades com persistencia de dados, utilizando Angular 11 + NodeJs + MongoDB
+Aplicação para pesquisa de previsão de tempo em cidades, com persistencia de dados, utilizando Angular 11 + NodeJs + MongoDB
 
 # Como usar
 - npm install no diretório de server e apiweather
